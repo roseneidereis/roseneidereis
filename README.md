@@ -6,8 +6,9 @@ Sobre mim:
 
 - Atualmente trabalho na área Financeira com análise de pagamentos e contratos
 - Moro e trabalho em São Paulo/SP
-- Atualmente estou aprendendo sobre análise de dados e desenvolvendo projetos 
-- Futuramente desejo ser uma Cientista de Dados 
+- Atualmente estou aprendendo sobre análise de dados e desenvolvendo projetos
+- Aceitando convites para trabalhar como Analista de Dados
+- Futuramente desejo ser Cientista de Dados 
 
 ## 
 
@@ -32,3 +33,5 @@ Onde pode me encontrar:
 ## 
 
 ## Portfólio e Principais Projetos
+
+### em desenvolvimento
