@@ -6,9 +6,8 @@ Sobre mim:
 
 - Atualmente trabalho na área Financeira com análise de pagamentos e contratos
 - Meu objetivo profissional é ajudar as empresas a resolver problemas de negócios <br> e alavancar seus resultados através dos dados, apresentando soluções e novas ideias
-- Estou aprendendo sobre análise de dados e desenvolvendo projetos pessoais <br> para adquirir mais experiência e me atualizar
-- Aceito convites para trabalhar como Analista de Dados
-- Aspirante a Cientista de Dados 
+- Estou aprendendo sobre análise de dados e desenvolvendo projetos pessoais <br> para adquirir experiência 
+- Aceito proposta para trabalhar como Analista de Dados 
 
 ## 
 
