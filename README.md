@@ -1,14 +1,14 @@
 ### Olá! Eu sou a Rose!
 
-## Analista Financeira, <br> Administradora com Especialização em Finanças e Estudante de Análise de Dados
+## Administradora com Especialização em Finanças, <br> Atualmente Estudante de Análise de Dados
 
 Sobre mim:
 
 - Atualmente trabalho na área Financeira com análise de pagamentos e contratos
-- Moro e trabalho em São Paulo/SP
-- Atualmente estou aprendendo sobre análise de dados e desenvolvendo projetos
-- Aceitando convites para trabalhar como Analista de Dados
-- Futuramente desejo ser Cientista de Dados 
+- Meu objetivo profissional é ajudar as empresas a resolver problemas de negócios <br> e alavancar seus resultados através dos dados, apresentando soluções e novas ideias
+- Estou aprendendo sobre análise de dados e desenvolvendo projetos pessoais <br> para adquirir mais experiência e me atualizar
+- Aceito convites para trabalhar como Analista de Dados
+- Aspirante a Cientista de Dados 
 
 ## 
 
