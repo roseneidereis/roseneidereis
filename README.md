@@ -32,5 +32,21 @@ Onde pode me encontrar:
 ## 
 
 ## Portfólio e Principais Projetos
+### Adventure Works - Análise de Dados com SQL
+<img align="right" width="600"  src="https://github.com/roseneidereis/arquivos_uteis/blob/main/AdventureWorksSQL.PNG">
+Esse é um projeto de análise de dados desenvolvido com SQL para analisar o comportamento de vendas de uma empresa fictícia chamada Adventure Works que vende bicicletas, peças e acessórios.
+<br><br>
+Os tomadores de decisão da Adventure Works decidiram elaborar o planejamento de vendas da empresa, mas necessitavam obter algumas informações importantes para efetuar as previsões de vendas e decidir ações de marketing. Dessa maneira, efetuaram algumas perguntas sobre o comportamento das vendas no período entre 2011 e 2014. 
+<br><br>
+Eles queriam saber a quantidade de clientes distintos, o total de vendas, a média de vendas, o total de vendas por ano, o total de vendas por país para saber qual país vendeu mais, e o total de vendas por produto para saber qual produto vendeu mais. 
+<br><br>
+Para essa análise forma realizadas consultas no SQL aplicando diversas cláusulas e estatística básica. A apresentação foi uma análise descritiva com a apresentação dos resultados ee algumas recomendações aos tomadores de decisão.
+<br><br>
+<a href="https://github.com/roseneidereis/Projeto-SQL-Adventure-Works" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-### em desenvolvimento
+## 
+Próximo projeto em Power BI em desenvolvimento
+##
+
+
+
