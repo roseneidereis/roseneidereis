@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rose!
 
-## Administradora com Especialização em Finanças, <br> Atualmente Estudante de Análise de Dados
+## Administradora com Especialização em Finanças, <br> Aprendiz em Análise de Dados, Aspirante a Analista de Dados
 
 Sobre mim:
 
