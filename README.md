@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Rose!
 
-## Administradora com Especialização em Finanças, <br> Aprendiz em Análise de Dados, Aspirante a Analista de Dados
-
+## Administradora com Especialização em Finanças, <br> Aprendiz em Análise de Dados
 Sobre mim:
 
 - Atualmente trabalho na área Financeira com análise de pagamentos e contratos
