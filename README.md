@@ -40,7 +40,7 @@ Os tomadores de decisão da Adventure Works decidiram elaborar o planejamento de
 <br><br>
 Eles queriam saber a quantidade de clientes distintos, o total de vendas, a média de vendas, o total de vendas por ano, o total de vendas por país para saber qual país vendeu mais, e o total de vendas por produto para saber qual produto vendeu mais. 
 <br><br>
-Para essa análise forma realizadas consultas no SQL aplicando diversas cláusulas e estatística básica. A apresentação foi uma análise descritiva com a apresentação dos resultados ee algumas recomendações aos tomadores de decisão.
+Para essa análise forma realizadas consultas no SQL aplicando diversas cláusulas e estatística básica. A apresentação foi uma análise descritiva com a apresentação dos resultados e algumas recomendações aos tomadores de decisão.
 <br><br>
 <a href="https://github.com/roseneidereis/Projeto-SQL-Adventure-Works" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
