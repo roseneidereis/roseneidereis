@@ -31,6 +31,19 @@ Onde pode me encontrar:
 ## 
 
 ## Portfólio e Principais Projetos
+### Análise Financeira - Análise de Dados com Power BI
+<img align="right" width="600"  src="https://github.com/roseneidereis/Projeto-PowerBI-Analise-Financeira/blob/main/AnaliseFinanceira.PNG">
+Projeto de análise de dados desenvolvido utilizando o Power com o objetivo de efetuar a análise financeira de uma empresa fictícia.
+<br><br>
+A empresa precisava ter a visão das receitas e despesas para elaborar o seu planejamento financeiro. 
+<br><br>
+Dessa maneira, solicitou a apresentação de alguns indicadores: Total de Receitas, Total de Despesas, Margem de Lucro, Total de Receitas por Componente, Total de Despesa do Componente e por ano com a hierarquia por Tipo e Componente, e os segmentos onde Receitas e Despesas são maiores e menores. 
+<br><br>
+Nessa análise foi necessária a transformação dos dados com erros, criação de uma tabela de medidas inserindo os códigos para efetuar os cálculos, e com os resultados obtidos as visualizações foram criadas apresentando os indicadores.
+<br><br>
+<a href="https://github.com/roseneidereis/Projeto-PowerBI-Analise-Financeira" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+##
 ### Adventure Works - Análise de Dados com SQL
 <img align="right" width="600"  src="https://github.com/roseneidereis/arquivos_uteis/blob/main/AdventureWorksSQL.PNG">
 Esse é um projeto de análise de dados desenvolvido com SQL para analisar o comportamento de vendas de uma empresa fictícia chamada Adventure Works que vende bicicletas, peças e acessórios.
@@ -43,9 +56,7 @@ Para essa análise foram realizadas consultas no SQL aplicando diversas cláusul
 <br><br>
 <a href="https://github.com/roseneidereis/Projeto-SQL-Adventure-Works" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-## 
-Próximo projeto em Power BI em desenvolvimento
-##
+
 
 
 
