@@ -33,7 +33,7 @@ Onde pode me encontrar:
 ## Portfólio e Principais Projetos
 ### Análise Financeira - Análise de Dados com Power BI
 <img align="right" width="600"  src="https://github.com/roseneidereis/Projeto-PowerBI-Analise-Financeira/blob/main/AnaliseFinanceira.PNG">
-Projeto de análise de dados desenvolvido utilizando o Power com o objetivo de efetuar a análise financeira de uma empresa fictícia.
+Projeto de análise de dados desenvolvido utilizando o Power BI com o objetivo de efetuar a análise financeira de uma empresa fictícia.
 <br><br>
 A empresa precisava ter a visão das receitas e despesas para elaborar o seu planejamento financeiro. 
 <br><br>
